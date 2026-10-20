@@ -4,7 +4,8 @@
     "tailwind.config.ts",
     "vite.config.ts",
     "mdx.d.ts",
-    "react-router.config.ts"
+    "react-router.config.ts",
+    "app/lib/rehype-extract-headings.ts"
   ],
   "compilerOptions": {
     "composite": true,
